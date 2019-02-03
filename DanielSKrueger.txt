@@ -1,0 +1,5 @@
+Name: Daniel Krueger
+
+EID: DSK785
+
+Hobby: Arduino
